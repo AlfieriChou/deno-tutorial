@@ -1,6 +1,6 @@
 import { globToRegExp } from "https://deno.land/std/path/mod.ts";
 
-const t = globToRegExp("../test/*.json", {
+const t = globToRegExp("../testJson/*.json", {
   flags: "g",
   extended: true,
   globstar: true,

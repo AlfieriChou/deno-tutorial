@@ -3,17 +3,17 @@
 ## async
 
 ```typescript
-deno run ./async/test.ts
+deno run ./async/demo.ts
 ```
 
 ## fs
 
 ```typescript
-deno run --allow-read --unstable ./fs/test.ts
+deno run --allow-read --unstable ./fs/demo.ts
 ```
 
 ## path
 
 ```typescript
-deno run --unstable ./fs/test.ts
+deno run --unstable ./fs/demo.ts
 ```
